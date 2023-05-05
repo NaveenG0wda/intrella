@@ -1,0 +1,37 @@
+------------------------------------------------------------------------
+admin login - dashboard - create user - manage user - manage employees
+------------------------------------------------------------------------
+
+admin -> create user => project title - course - number(m) - email - pid(unique) (proj_year_numbers) - password(default gen) - role(student/employee)
+admin -> emp - email - pass - type(develop/report/config)(multiple)
+
+admin -> manage user => view - delete
+
+------------------------------------------------------------------------
+user login - dashboard - book slot
+------------------------------------------------------------------------
+
+user -> dashboard => today slots 
+user -> all slots => all slots 
+user -> book slot => start and end date & time(current & future)(max 10am - 7pm) - types(explanation(develop)(30min)/config(config)(60min)/project errors(develop)(60min)/report(report)(30min)) - employee - project title - description(optional) - report format(SRS/SYSTEM DESIGN/LITERATURE SURVEY/FULL REPORT)(example report - file upload) - person to contact(single)
+
+--------------------------------------------------------------------------
+
+sunil email for x2 book slot
+admin dashboard - total no of users,total no of employees,total no of slots
+close slot permanently - comment while closing - edit slot
+project id - P capital
+webconfig extra file to retrieve
+profile - details and change password
+admin - all slots table
+home nav - employee - user
+
+==========================================================================
+
+same user same employee same time not allowed - done
+
+closed slot, but active in employee
+
+sunday booking not allowed
+
+employee location extra column - ramakrishna nagar, chamundi puram
